@@ -9,3 +9,8 @@ pip-delete-this-directory.txt
 # Django stuff:
 *.log
 *.pot
+
+# Datasets
+*.csv
+!test.csv
+!train.csv
