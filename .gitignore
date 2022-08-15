@@ -14,3 +14,6 @@ pip-delete-this-directory.txt
 *.csv
 !test.csv
 !train.csv
+
+# ML models - binários
+*.pickle
