@@ -40,13 +40,15 @@ def impute_age_model(cols) -> float:
         return AgeGroup
     else:
         return AgeGroup
-
+"""
 def fare_to_classgroup(fare) -> int:
     "Mapeia a classe social a partir da taxa paga"
-    CLASSE_SOC = {3: [0, 50], 2: [50, 125], 1: [125, 1000]}
+    CLASSE_SOC = {4: [0, 20], 3: [20, 60], 2: [60, 160], 1: [160, 1000]}
     class_group = 3
     for key, val in CLASSE_SOC.items():
         if fare < val[1] and fare >= val[0]:
             class_group = key
             break
     return class_group
+data['ClassGroup'] = data['Fare'].map(fare_to_classgroup)
+"""
