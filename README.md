@@ -8,7 +8,7 @@ Também encontrará aqui uso de ferramentas de Visão computacional, Processamen
 
 Cada diretório corresponde a 1 problema com ao menos 1 solução.
 
-O nome das pastas seguirá o seguinte critério no formato M1-XX-Titulo:
+O nome das pastas seguirá o seguinte critério no formato K1-XX-Titulo:
 
 * Dificuldade do problema de aprendizado [K1]:
   * K1: fácil
