@@ -28,5 +28,5 @@ O nome das pastas seguirá o seguinte critério no formato M1-XX-Titulo:
 * Descrição
   * [Titanic](https://www.kaggle.com/c/titanic)
   * [HousingPrices](https://www.kaggle.com/c/house-prices-advanced-regression-techniques)
-* Solução
+* Solução Referências
   * [Titanic](https://blog.goodaudience.com/machine-learning-using-logistic-regression-in-python-with-code-ab3c7f5f3bed)
